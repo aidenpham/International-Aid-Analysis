@@ -1,5 +1,5 @@
 # International-Aid-Analysis
-### How do geographic and economic factors correlate with the international aid donated or received by a country?
+### How do geographic and economic factors correlate with the international aid (ODA) donated or received by a country?
 
 According to the United Nations, Sustainable Development Goals (SDG) are the blueprint to achieve a better and more sustainable future for all. They address the global challenges we face, including those related to poverty, inequality, climate, environmental degradation, prosperity, and peace and justice. There are 17 different goals, which are designed in such a manner that they are interconnected.
 
