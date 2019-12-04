@@ -5,7 +5,7 @@ According to the United Nations, Sustainable Development Goals (SDG) are the blu
 
 Official development assistance (ODA) plays an important role in reaching sustainable development goals. ODA is defined as government aid designed to promote the economic development and welfare of developing countries. The eligibility of ODA are still fundamentally based on a country's economic growth performance.
 
-Results:
+### Results:
 
 In this project we have looked at the financing of ODA. Several patterns have been identified by analysing and visualizing the data:
 1. The biggest donors were the US, Japan, World Bank and European countries, whereas the biggest receivers were Asian and African countries.
