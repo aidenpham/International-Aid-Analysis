@@ -7,7 +7,7 @@ Official development assistance (ODA) plays an important role in reaching sustai
 
 In this project, we aimed to analyze the correlation between GDP and ODA.
 
-### Results
+### Results:
 
 In this project we have looked at the financing of ODA. Several patterns have been identified by analysing and visualizing the data:
 1. The biggest donors were the US, Japan, World Bank and European countries, whereas the biggest receivers were Asian and African countries.
